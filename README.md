@@ -11,6 +11,7 @@ The fellowship covers end-to-end product thinking: from user empathy and problem
 | Module | Date Issued | Certificate |
 |---|---|---|
 | 🏆 **Certificate of Completion** | **Apr 2026** | [**View PDF**](./Product%20Manager%20Fellowship%20-%20Certificate%20of%20Completion.pdf) |
+| ⭐ **Top Fellow** | **Apr 2026** | [**View PDF**](./Top%20Fellow%20-%20Certificate.pdf) |
 | Prioritisation, Metrics & Growth | 23 Jan 2026 | [View PDF](./Product%20Manager%20Fellowship%20-%20Prioritisation%2C%20Metrics%20%26%20Growth.pdf) |
 | User Research & Problem Framing | 9 Jan 2026 | [View PDF](./Product%20Manager%20Fellowship%20-%20User%20Research%20%26%20Problem%20Framing.pdf) |
 | Systems Thinking & Mapping Outcomes | 19 Dec 2025 | [View PDF](./Product%20Manager%20Fellowship%20-%20Systems%20Thinking%20%26%20Mapping%20Outcomes.pdf) |
@@ -20,6 +21,7 @@ The fellowship covers end-to-end product thinking: from user empathy and problem
 ## 🧠 What I Learned
 
 - **Certificate of Completion** — Full fellowship: end-to-end product thinking, AI product strategy, user-centric problem solving across all 3 modules
+- **Top Fellow** — Special recognition awarded to top-performing fellows in the cohort
 - **Prioritisation, Metrics & Growth** — RICE, ICE, North Star metrics, growth loops, and decision frameworks
 - **User Research & Problem Framing** — Research methods, interview design, HMW framing, problem statements
 - **Systems Thinking & Mapping Outcomes** — Causal loops, outcome mapping, and systems-level product design
